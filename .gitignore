@@ -1,3 +1,7 @@
 PFvenv
 project
 .env
+__pycache__/
+*.pyc
+instance/
+*.db
